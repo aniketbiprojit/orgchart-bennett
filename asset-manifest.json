@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/orgchart-council/static/css/main.6f518fba.chunk.css",
+    "main.js": "/orgchart-council/static/js/main.482d1cdc.chunk.js",
+    "main.js.map": "/orgchart-council/static/js/main.482d1cdc.chunk.js.map",
+    "runtime-main.js": "/orgchart-council/static/js/runtime-main.5a5a563f.js",
+    "runtime-main.js.map": "/orgchart-council/static/js/runtime-main.5a5a563f.js.map",
+    "static/js/2.96b7ed8b.chunk.js": "/orgchart-council/static/js/2.96b7ed8b.chunk.js",
+    "static/js/2.96b7ed8b.chunk.js.map": "/orgchart-council/static/js/2.96b7ed8b.chunk.js.map",
+    "index.html": "/orgchart-council/index.html",
+    "precache-manifest.e46a2d0803761208b57c0557cc4109cd.js": "/orgchart-council/precache-manifest.e46a2d0803761208b57c0557cc4109cd.js",
+    "service-worker.js": "/orgchart-council/service-worker.js",
+    "static/css/main.6f518fba.chunk.css.map": "/orgchart-council/static/css/main.6f518fba.chunk.css.map",
+    "static/js/2.96b7ed8b.chunk.js.LICENSE.txt": "/orgchart-council/static/js/2.96b7ed8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a5a563f.js",
+    "static/js/2.96b7ed8b.chunk.js",
+    "static/css/main.6f518fba.chunk.css",
+    "static/js/main.482d1cdc.chunk.js"
+  ]
+}
